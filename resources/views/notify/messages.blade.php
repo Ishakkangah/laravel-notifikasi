@@ -1,0 +1,1 @@
+<div class="alert alert-danger bg-danger text-white">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo, veniam.</div>
